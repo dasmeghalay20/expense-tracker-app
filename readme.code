@@ -1,0 +1,17 @@
+# Expense Tracker (Python CLI)
+
+A simple command-line Expense Tracker built using Python.
+
+## Features
+- Add Expense
+- View All Expenses
+- Delete Expense
+- View Total Spending
+- Data stored in CSV file
+
+## Tech Used
+- Python
+- CSV File Handling
+
+## How to Run
+python expense_tracker.py
